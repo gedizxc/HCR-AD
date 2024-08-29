@@ -1,6 +1,3 @@
-# @Time    : 2022/10/30 4:51 下午
-# @Author  : tang
-# @File    : data.py
 from scipy.stats import rankdata, iqr, trim_mean
 from sklearn.metrics import f1_score, mean_squared_error
 import numpy as np
