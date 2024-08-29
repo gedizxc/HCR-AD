@@ -1,6 +1,3 @@
-# @Time    : 2022/10/30 4:18 下午
-# @Author  : tang
-# @File    : test.py
 import torch.nn as nn
 import time
 import torch
