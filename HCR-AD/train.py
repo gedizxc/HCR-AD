@@ -1,6 +1,3 @@
-# @Time    : 2022/9/28 9:41 上午
-# @Author  : tang
-# @File    : train.py
 import numpy as np
 import torch
 
