@@ -1,6 +1,3 @@
-# @Time    : 2022/10/30 4:45 下午
-# @Author  : tang
-# @File    : evaluate.py
 import numpy as np
 from sklearn.metrics import precision_score, recall_score, roc_auc_score, f1_score
 from util.data import *
