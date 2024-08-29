@@ -1,7 +1,3 @@
-# @Time    : 2022/11/21 3:52 下午
-# @Author  : tang
-# @File    : meta_path.py
-# 通过原始的edge，随即获取A1， 以及对应的BAB, BAA的编号
 from itertools import chain
 
 import torch
