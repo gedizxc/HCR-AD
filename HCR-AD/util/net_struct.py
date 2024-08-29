@@ -1,6 +1,3 @@
-# @Time    : 2022/9/27 9:42 上午
-# @Author  : tang
-# @File    : net_struct.py
 
 def get_feature_map(dataset):
     feature_file = open(f'./data/{dataset}/list.txt', 'r')
