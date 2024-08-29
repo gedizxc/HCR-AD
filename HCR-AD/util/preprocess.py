@@ -1,7 +1,3 @@
-# @Time    : 2022/9/27 9:46 上午
-# @Author  : tang
-# @File    : preprocess.py
-
 def construct_data(data, feature_map, labels=0):
     res = []
 
